@@ -102,6 +102,23 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="9c992074-25ac-4ad9-bd43-b8c8580a99fc">
+    <name>ПланТрудозатрат</name>
+    <synonym>
+      <key>ru</key>
+      <value>План трудозатрат</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>2</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="75d987e3-8ac1-416c-8d80-82db25533a8e">
     <name>ФормаЭлемента</name>
     <synonym>
